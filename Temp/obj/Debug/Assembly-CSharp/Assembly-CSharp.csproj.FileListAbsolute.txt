@@ -1,0 +1,8 @@
+/home/needslyp/unity_projects/UP_6/Temp/bin/Debug/Assembly-CSharp.deps.json
+/home/needslyp/unity_projects/UP_6/Temp/bin/Debug/Assembly-CSharp.dll
+/home/needslyp/unity_projects/UP_6/Temp/bin/Debug/Assembly-CSharp.pdb
+/home/needslyp/unity_projects/UP_6/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.csproj.AssemblyReference.cache
+/home/needslyp/unity_projects/UP_6/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/needslyp/unity_projects/UP_6/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/home/needslyp/unity_projects/UP_6/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.dll
+/home/needslyp/unity_projects/UP_6/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.pdb
